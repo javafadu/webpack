@@ -1,0 +1,10 @@
+$primary : rgb(181, 77, 213);
+
+@import "bootstrap/scss/bootstrap";
+
+body {
+    background-color:red;
+}
+.btn-test{
+    font-size: 2rem;
+}
